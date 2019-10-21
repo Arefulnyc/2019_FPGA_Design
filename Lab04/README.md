@@ -1,6 +1,11 @@
 FPGA Design Lab04 - Package a Custom AXI IP
 =============================================
 
+## Introduction to AXI Interface
+
+![axi intro](images/axi.png)
+
+
 ## Step 1. Create a new project
 
 無需加入任何檔案。
