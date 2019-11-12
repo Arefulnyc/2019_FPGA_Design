@@ -1,3 +1,6 @@
-FPGA Design Lab 6-2 - Advanced Python Hardware Control on Zynq
+FPGA Design Lab 6-2 - Advanced Hardware Control by Python
 ==================================================
-To be continued...
+
+# Purpose
+
+在 Pynq Jupyter Notebook 的環境下使用 Python 來控制 Custom IP

@@ -36,7 +36,7 @@ FPGA Design Lab6-1 - Python on Zynq
 
 3. 將本次 Lab `jupyter notebook` 資料夾內的檔案放進 PYNQ 內的 jupyter_notebooks 的資料夾內。
 
-## Step 3 - Jupyter notebook
+## Step 3 - Jupyter notebook - Base Overlay
 
 1. 打開瀏覽器，輸入位址: `192.168.2.99:9090` (預設密碼也是xilinx)
 
