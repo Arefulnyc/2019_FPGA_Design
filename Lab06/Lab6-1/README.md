@@ -47,3 +47,9 @@ FPGA Design Lab6-1 - Python on Zynq
 3. 按下 `run` 即可執行逐個cell裏的code
 
 ![run](images/run.png)
+
+## Recommend SFTP Tool
+
+1. [FileZilla](https://filezilla-project.org/)
+
+2. [WinSCP](https://winscp.net/eng/download.php)
