@@ -53,3 +53,17 @@ Homework 2
 1. 使用一顆 RGB LED 即可。
 
 2. 呼吸燈顏色和第一題一樣需按照彩虹七色的順序來顯示。
+
+# 作業成績
+
+| 組別 | 分數 | 備註 |
+|------|------|-----|
+|1|115|Program1之RGB_LED.v的Sequential Circuit內對register的存取應該要使用<=(44行always block)。|
+|2|100|Program1之所有IP都需要ooc(有clk)，並且需要定義clk_div產生的clk訊號(如Lab01之blinky.xdc)。Program2,3少附腳位xdc檔案。|
+|3|115|Combinational Circuit中case中的訊號需要在所有case中都描述行為(包含default)，如Bonus的state_a.v之52行需要加上n_state之描述。|
+|4|105|Program1,2,Bonus之PWM_ooc的除頻電路訊號名稱有誤。腳位xdc中沒有連接的腳位不需要連接。Bonus中led_pwm.v中的cstate_color reg並未於rst時給予初始值。|
+|5|110|腳位xdc檔案只有一份，但是每題的output都不一致。Program2之LED.v的output led未定義[3:1]之行為。|
+|6|85|無法找到腳位xdc檔案，以及未附Block degisn圖。Program1之RWM_Decoder.v與Program2之HW_LED_Decoder.v的Sequential Circuit內對register的存取應該要使用<=(1:30-75行,2:51行)。|
+|7|95|無法找到腳位xdc檔案。|
+|8|120||
+|9|115|Program1,Bonus之divider_ooc的除頻電路訊號名稱有誤。Bonus之PWM_led.v的Combinational Circuit中應為blocking寫法(23,25行應為=)。|
