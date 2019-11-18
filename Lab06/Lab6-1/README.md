@@ -18,7 +18,7 @@ FPGA Design Lab6-1 - Python on Zynq
 
 6. 開機。
 
-開啟電源後先不要動作，等待板子的 RGB LED 閃彩燈後四顆 LED 全亮紅燈才代表完全開機完成。
+開啟電源後先不要動作，等待板子的 RGB LED 閃彩燈後四顆 LED 全亮綠燈才代表完全開機完成。
 
 ## Step 2 - Connect to the Board
 
