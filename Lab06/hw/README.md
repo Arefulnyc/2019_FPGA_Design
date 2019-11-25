@@ -19,7 +19,7 @@ Homework 6
 
 設計一個2*2的卷積運算處理器，演算法如下。
 
-![algorithm](/images/algorithm.png)
+![algorithm](images/algorithm.png)
 
 1. 卷積運算處理器的指令及資料可以透過 BRAM ，也可以透過IP本身的 AXI Register 存取。
 
