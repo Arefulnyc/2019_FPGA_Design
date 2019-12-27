@@ -5,6 +5,13 @@ This repository provides various FPGA design tutorials.
 
 # Final Project Presentation Agenda
 
+以下為期末專題報告的注意事項：
+
+1. 報告地點為超大型積體電路設計實驗室 (奇美樓 5F 95514室)
+2. 請於報告前五分鐘到實驗室報到
+3. 報告用的投影片請在報告前一天前寄到這個信箱，並在標題加上【FPGA期末專題PPT】，並註明組別
+4. 請一併將板子、線材、記憶卡帶來歸還
+
 ![Agenda](./Final_Project_Agenda.JPG)
 
 # Tool
