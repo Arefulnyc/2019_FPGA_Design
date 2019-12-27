@@ -3,10 +3,9 @@ Undergraduate course -- FPGA Design
 
 This repository provides various FPGA design tutorials.
 
-# Final Project Sheet Link
+# Final Project Presentation Agenda
 
-* [Link](https://forms.gle/6muzXXTFwVWU5AcF7)
-
+![Agenda](./Final_Project_Agenda.JPG)
 
 # Tool
 * [Vivado 2018.3](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/2018-3.html)
